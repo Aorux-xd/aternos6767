@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
-    "password": "",
+    "username": "AternosAFKBOT",
+    "password": "Shf7dk",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "MotkaVS.aternos.me",
+    "port": 52219,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "YourAuthPassword"
+      "password": "Shf7dk"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "! Я бот атерноса чтобы держать сервер мотки 24 на 7",
+        "! Я афк ботик)"
       ]
     },
     "chat-log": true,
